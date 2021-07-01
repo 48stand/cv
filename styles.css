@@ -1,0 +1,124 @@
+/***********TAG SELECTORS**************/
+
+body{
+  background-color: #D0E8F2;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #77D8D8;
+  border-width: 6px;
+  width: 25%;
+}
+a{
+  color: #07689F;
+}
+
+h1{
+  color: #39A2DB;
+}
+
+h3{
+  color: #00587A;
+}
+
+h4{
+  color: #39A2DB;
+}
+
+p{
+  color: #00587A;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+th{
+  color: #008891;
+}
+
+td{
+  color: #00587A;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+ul{
+  color: #00587A;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ol{
+  color: #00587A;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+  color: #00587A;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+  color: #00587A;
+}
+
+table{
+  background-color: #D0E8F2;
+}
+
+td:hover{
+  color: #CD113B;
+}
+
+a:hover{
+  color: #CD113B;
+}
+
+hr:hover{
+  width: 75%;
+  border-top-style: solid;
+}
+
+label:hover{
+  color: #CD113B;
+}
+
+/****************CLASS SELECTORS*****************/
+
+.envelope{
+  height: 65px;
+}
+
+.phone{
+  height: 60px;
+}
+
+.seperator{
+  width: 75%;
+
+}
+
+.hr_tiny{
+  width: 10%;
+}
+
+.no_color_table {
+  background-color: #D0E8F2;
+}
+
+.seperator:hover{
+  width: 100%;
+  border-top-style: solid;
+}
+
+.hr_tiny:hover{
+  width: 35%;
+  border-top-style: solid;
+}
+
+.green:hover{
+  color: #61B15A;
+}
+/****************ID SELECTORS****************/
+
+#color_table {
+  background-color: #A6E3E9;
+}
